@@ -1,12 +1,3 @@
-# PCompiler
-[![Releases](https://img.shields.io/github/release/SnowVolf/PCompiler.svg)](https://github.com/SnowVolf/PCompiler/releases/latest)
-
-Patch creator for Apk Editor.
-Note: Please use newer version of [Apk Editor](https://github.com/TimScriptov/ApkEditor) by timscriptov
-## Screenshots
-| ![Drawer](https://raw.githubusercontent.com/SnowVolf/PCompiler/master/screenshots/img_drawer.png) | ![main screen](https://raw.githubusercontent.com/SnowVolf/PCompiler/master/screenshots/img_main.png) | ![tabs screen](https://raw.githubusercontent.com/SnowVolf/PCompiler/master/screenshots/img_tabs.png) |
-|--|--|--|
-| ![Regexp tester](https://raw.githubusercontent.com/SnowVolf/PCompiler/master/screenshots/img_regexp.png) | ![settings screen](https://raw.githubusercontent.com/SnowVolf/PCompiler/master/screenshots/img_settings.png) |  |
 ## About Patch
 Patch is supported in APK Editor Pro since version 1.6.0. In general, it is a zip file, which contains patch.txt and other necessary files. Patch.txt inside the zip file specifies patch rules, and other files provide patch resources.
 It is not mature yet, please be careful when combining with other modifications.
